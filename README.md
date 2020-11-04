@@ -20,7 +20,7 @@ an Insecure Software Supply Chain," The Atlantic Council, 2020, [link](https://w
 
 OpenSSF, Open Source Security Foundation, a Linux Foundation project, [link](https://openssf.org/).
 
-Marc Ohm, Backstabber's Knife Collection, an open source malware research repository, https://dasfreak.github.io/Backstabbers-Knife-Collection/.
+Marc Ohm, Backstabber's Knife Collection, an open source malware research repository, [link](https://dasfreak.github.io/Backstabbers-Knife-Collection/).
 
 
 **You can find IQT Lab's own public research on software supply chain security below:**
