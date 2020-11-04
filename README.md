@@ -10,8 +10,8 @@ pull requests to identify mistakes we made (we're all too human) either of commi
 by omission. Importantly, this dataset will quickly go out of date unless new attacks are
 added.
 
-If you are interested in software supply chain security, we recommend recent research and
-initiatives such as:
+**If you are interested in software supply chain security, we recommend recent research and
+initiatives such as:**
 
 Software Bill of Materials effort, National Telecommunications and Information Administration, [link](https://www.ntia.gov/SBOM).
 
@@ -20,8 +20,10 @@ an Insecure Software Supply Chain," The Atlantic Council, 2020, [link](https://w
 
 OpenSSF, Open Source Security Foundation, a Linux Foundation project, [link](https://openssf.org/).
 
+Marc Ohm, Backstabber's Knife Collection, an open source malware research repository, https://dasfreak.github.io/Backstabbers-Knife-Collection/.
 
-You can find IQT Lab's own public research on software supply chain security below:
+
+**You can find IQT Lab's own public research on software supply chain security below:**
 
 John Speed Meyers and Bentz Tozer, "Bewear: Python Typosquatting is About More than Typos," IQT Blog, September 30, 2020. [Link](https://www.iqt.org/bewear-python-typosquatting-is-about-more-than-typos/).
 
