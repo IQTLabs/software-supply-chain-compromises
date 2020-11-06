@@ -22,6 +22,8 @@ OpenSSF, Open Source Security Foundation, a Linux Foundation project, [link](htt
 
 Marc Ohm, Backstabber's Knife Collection, an open source malware research repository, [link](https://dasfreak.github.io/Backstabbers-Knife-Collection/).
 
+In-toto Project, Software Supply Chain Compromises, New York University Secure Systems Lab, https://github.com/in-toto/supply-chain-compromises.
+
 
 **You can find IQT Lab's own public research on software supply chain security below:**
 
