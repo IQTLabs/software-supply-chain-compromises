@@ -27,9 +27,11 @@ In-toto Project, Software Supply Chain Compromises, New York University Secure S
 
 **You can find IQT Lab's own public research on software supply chain security below:**
 
-John Speed Meyers and Bentz Tozer, "Bewear: Python Typosquatting is About More than Typos," IQT Blog, September 30, 2020. [Link](https://www.iqt.org/bewear-python-typosquatting-is-about-more-than-typos/).
+Dan Geer, Bentz Tozer, and John Speed Meyers, "Counting Broken Links: A Quant's View of Software Supply Chain Security," USENIX *;login:*, December 2020. [Link](https://www.usenix.org/system/files/login/articles/login_winter20_17_geer.pdf)
 
 John Speed Meyers and Bentz Tozer, "pypi-scan: A Tool for Scanning the Python Package Index for Typosquatters," IQT Blog, October 16, 2020. [Link](https://www.iqt.org/pypi-scan/), [GitHub repo](https://github.com/IQTLabs/pypi-scan).
+
+John Speed Meyers and Bentz Tozer, "Bewear: Python Typosquatting is About More than Typos," IQT Blog, September 30, 2020. [Link](https://www.iqt.org/bewear-python-typosquatting-is-about-more-than-typos/).
 
 
 
