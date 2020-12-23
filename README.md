@@ -2,8 +2,8 @@
 
 The .csv file in this repository represents the work by IQT Labs to identify and create a
 living (though not breathing) dataset of publicly reported software supply chain compromises.
-Dan Geer, Bentz Tozer, and John Speed Meyers used this dataset for a forthcoming article
-analyzing software supply chain compromises.
+Dan Geer, Bentz Tozer, and John Speed Meyers used this dataset for an article
+analyzing software supply chain compromises. (See the citation below.)
 
 We want and need help to maintain this dataset. Please help us maintain it by submitting
 pull requests to identify mistakes we made (we're all too human) either of commission or
