@@ -1,6 +1,6 @@
 # Software Supply Chain Compromises - A Living Dataset
 
-The `.csv` file in this repository represents the work by *IQT Labs* to identify
+The `.csv` file in this repository represents the work by **IQT Labs** to identify
 and create a living (though not breathing) dataset of publicly reported software
 supply chain compromises.
 Dan Geer, Bentz Tozer, and John Speed Meyers used this dataset for an article
@@ -25,7 +25,7 @@ research and initiatives such as...**
 
 - Trey Herr, William Loomis, Stewart Scott, June Lee, "Breaking Trust: Shades of
   Crisis across an Insecure Software Supply Chain," The Atlantic Council, 2020.
-  [Link](https://www.atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-
+  [Link](https://www.atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-\
   trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf).
 
 - OpenSSF, Open Source Security Foundation, a Linux Foundation project.
@@ -45,7 +45,7 @@ below...**
 
 - Dan Geer, Bentz Tozer, and John Speed Meyers, "Counting Broken Links: A
   Quant's View of Software Supply Chain Security," USENIX, December 2020.
-  [Link](https://www.usenix.org/system/files/login/articles/login_
+  [Link](https://www.usenix.org/system/files/login/articles/login_\
   winter20_17_geer.pdf)
 
 - John Speed Meyers and Bentz Tozer, "pypi-scan: A Tool for Scanning the Python
@@ -55,6 +55,6 @@ below...**
 
 - John Speed Meyers and Bentz Tozer, "Bewear: Python Typosquatting is About More
   than Typos," IQT Blog, September 30, 2020.
-  [Link](https://www.iqt.org/bewear-python-typosquatting-is-about-more-than-
+  [Link](https://www.iqt.org/bewear-python-typosquatting-is-about-more-than-\
   typos/).
 
