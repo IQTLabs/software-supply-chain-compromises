@@ -25,8 +25,7 @@ research and initiatives such as...**
 
 - Trey Herr, William Loomis, Stewart Scott, June Lee, "Breaking Trust: Shades of
   Crisis across an Insecure Software Supply Chain," The Atlantic Council, 2020.
-  [Link](https://www.atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-\
-  trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf).
+  [Link](https://www.atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf).
 
 - OpenSSF, Open Source Security Foundation, a Linux Foundation project.
   [Link](https://openssf.org/).
@@ -45,8 +44,7 @@ below...**
 
 - Dan Geer, Bentz Tozer, and John Speed Meyers, "Counting Broken Links: A
   Quant's View of Software Supply Chain Security," USENIX, December 2020.
-  [Link](https://www.usenix.org/system/files/login/articles/login_\
-  winter20_17_geer.pdf)
+  [Link](https://www.usenix.org/system/files/login/articles/login_winter20_17_geer.pdf).
 
 - John Speed Meyers and Bentz Tozer, "pypi-scan: A Tool for Scanning the Python
   Package Index for Typosquatters," IQT Blog, October 16, 2020.
@@ -55,6 +53,5 @@ below...**
 
 - John Speed Meyers and Bentz Tozer, "Bewear: Python Typosquatting is About More
   than Typos," IQT Blog, September 30, 2020.
-  [Link](https://www.iqt.org/bewear-python-typosquatting-is-about-more-than-\
-  typos/).
+  [Link](https://www.iqt.org/bewear-python-typosquatting-is-about-more-than-typos/).
 
